@@ -1,0 +1,2 @@
+D:\Daten\Coding\CVR\HexBot\HexBot\HexBot\bin\Release\netcoreapp3.1\publish\win-x64\HexBot.pdb
+D:\Daten\Coding\CVR\HexBot\HexBot\HexBot\bin\Release\netcoreapp3.1\publish\win-x64\HexBot.exe

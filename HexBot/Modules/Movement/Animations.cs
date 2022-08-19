@@ -1,0 +1,75 @@
+﻿namespace HexBot.Movement
+{
+    public class Animations
+    {
+        public bool AnimatorGrounded = false;
+        public float AnimatorEmote = 0;
+        public bool AnimatorCancelEmote = false;
+        public float AnimatorGestureLeft = 0;
+        public float AnimatorGestureRight = 0;
+        public float AnimatorToggle = 0;
+        public bool AnimatorSitting = false;
+        public bool AnimatorCrouching = false;
+        public bool AnimatorFlying = false;
+        public bool AnimatorProne = false;
+        public float SpineFrontBack = 0;
+        public float SpineLeftRight = 0;
+        public float SpineTwistLeftRight = 0;
+        public float ChestFrontBack = 0;
+        public float ChestLeftRight = 0;
+        public float ChestTwistLeftRight = 0;
+        public float UpperChestFrontBack = 0;
+        public float UpperChestLeftRight = 0;
+        public float UpperChestTwistLeftRight = 0;
+        public float NeckNodDownUp = 0;
+        public float NeckTiltLeftRight = 0;
+        public float NeckTurnLeftRight = 0;
+        public float HeadNodDownUp = 0;
+        public float HeadTiltLeftRight = 0;
+        public float HeadTurnLeftRight = 0;
+        public float LeftUpperLegFrontBack = 0;
+        public float LeftUpperLegInOut = 0;
+        public float LeftUpperLegTwistInOut = 0;
+        public float LeftLowerLegStretch = 0;
+        public float LeftLowerLegTwistInOut = 0;
+        public float LeftFootUpDown = 0;
+        public float LeftFootTwistInOut = 0;
+        public float LeftToesUpDown = 0;
+        public float RightUpperLegFrontBack = 0;
+        public float RightUpperLegInOut = 0;
+        public float RightUpperLegTwistInOut = 0;
+        public float RightLowerLegStretch = 0;
+        public float RightLowerLegTwistInOut = 0;
+        public float RightFootUpDown = 0;
+        public float RightFootTwistInOut = 0;
+        public float RightToesUpDown = 0;
+        public float LeftShoulderDownUp = 0;
+        public float LeftShoulderFrontBack = 0;
+        public float LeftArmDownUp = 0;
+        public float LeftArmFrontBack = 0;
+        public float LeftArmTwistInOut = 0;
+        public float LeftForearmStretch = 0;
+        public float LeftForearmTwistInOut = 0;
+        public float LeftHandDownUp = 0;
+        public float LeftHandInOut = 0;
+        public float RightShoulderDownUp = 0;
+        public float RightShoulderFrontBack = 0;
+        public float RightArmDownUp = 0;
+        public float RightArmFrontBack = 0;
+        public float RightArmTwistInOut = 0;
+        public float RightForearmStretch = 0;
+        public float RightForearmTwistInOut = 0;
+        public float RightHandDownUp = 0;
+        public float RightHandInOut = 0;
+        public bool IndexUseIndividualFingers = false;
+        public IndividualFingers IndividualFingers = new IndividualFingers();
+        public bool CameraEnabled = false;
+        public Camera Camera = new Camera();
+        public bool EyeTrackingOverride = false;
+        public EyeTracking EyeTracking = new EyeTracking();
+        public bool EyeBlinkingOverride = false;
+        public EyeBlinking EyeBlinking = new EyeBlinking();
+        public bool FaceTrackingEnabled = false;
+        public FaceTracking FaceTracking = new FaceTracking();
+    }
+}
