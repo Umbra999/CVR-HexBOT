@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
     <Nullable>disable</Nullable>
   </PropertyGroup>
@@ -14,16 +14,16 @@
 
   <ItemGroup>
     <Reference Include="DarkRift">
-      <HintPath>C:\Program Files (x86)\Steam\steamapps\common\ChilloutVR\ChilloutVR_Data\Managed\DarkRift.dll</HintPath>
+      <HintPath>E:\Games\Steam\steamapps\common\ChilloutVR\ChilloutVR_Data\Managed\DarkRift.dll</HintPath>
     </Reference>
     <Reference Include="DarkRift.Client">
-      <HintPath>C:\Program Files (x86)\Steam\steamapps\common\ChilloutVR\ChilloutVR_Data\Managed\DarkRift.Client.dll</HintPath>
+      <HintPath>E:\Games\Steam\steamapps\common\ChilloutVR\ChilloutVR_Data\Managed\DarkRift.Client.dll</HintPath>
     </Reference>
     <Reference Include="DarkRift.Server">
-      <HintPath>C:\Program Files (x86)\Steam\steamapps\common\ChilloutVR\ChilloutVR_Data\Managed\DarkRift.Server.dll</HintPath>
+      <HintPath>E:\Games\Steam\steamapps\common\ChilloutVR\ChilloutVR_Data\Managed\DarkRift.Server.dll</HintPath>
     </Reference>
     <Reference Include="websocket-sharp2">
-      <HintPath>C:\Program Files (x86)\Steam\steamapps\common\ChilloutVR\websocket-sharp2.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\websocket-sharp2 (2).dll</HintPath>
     </Reference>
   </ItemGroup>
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EN3YrrzfzVqH7vRy99mMBNyEYdyH7un8B16xkDwog6iFhXZ34oivW23Vm/cuv4AXXREb5aCrkRd//HVCf0lDUw==",
+  "dgSpecHash": "oUntDfOKm4bycSGwf8m4SO+qxVsxQvx8dUuz3AHz3nOCp3tuQPx9XgE4IefMr/L9inJwKskShYJVrQBld3OkPw==",
   "success": true,
-  "projectFilePath": "D:\\Daten\\Coding\\CVR\\HexBot\\HexBot\\HexBot\\HexBot.csproj",
+  "projectFilePath": "C:\\Users\\Umbra\\Documents\\GitHub\\CVR-HexBOT\\HexBot\\HexBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Umbra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Umbra\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",

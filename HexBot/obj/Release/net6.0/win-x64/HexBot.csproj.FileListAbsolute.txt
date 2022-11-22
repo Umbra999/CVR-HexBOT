@@ -1,0 +1,26 @@
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\HexBot.exe
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\HexBot.deps.json
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\HexBot.runtimeconfig.json
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\HexBot.dll
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\HexBot.pdb
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\DarkRift.Client.dll
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\DarkRift.dll
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\DarkRift.Server.dll
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\net6.0\win-x64\websocket-sharp2 (2).dll
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\obj\Release\net6.0\win-x64\HexBot.csproj.AssemblyReference.cache
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\obj\Release\net6.0\win-x64\HexBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\obj\Release\net6.0\win-x64\HexBot.AssemblyInfoInputs.cache
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\obj\Release\net6.0\win-x64\HexBot.AssemblyInfo.cs
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\obj\Release\net6.0\win-x64\HexBot.csproj.CoreCompileInputs.cache
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\obj\Release\net6.0\win-x64\HexBot.csproj.CopyComplete
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\obj\Release\net6.0\win-x64\HexBot.dll
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\obj\Release\net6.0\win-x64\refint\HexBot.dll
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\obj\Release\net6.0\win-x64\HexBot.pdb
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\obj\Release\net6.0\win-x64\HexBot.genruntimeconfig.cache
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\obj\Release\net6.0\win-x64\ref\HexBot.dll

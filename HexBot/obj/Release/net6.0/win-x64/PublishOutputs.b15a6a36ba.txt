@@ -1,0 +1,2 @@
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\netcoreapp3.1\publish\win-x64\HexBot.pdb
+C:\Users\Umbra\Documents\GitHub\CVR-HexBOT\HexBot\bin\Release\netcoreapp3.1\publish\win-x64\HexBot.exe

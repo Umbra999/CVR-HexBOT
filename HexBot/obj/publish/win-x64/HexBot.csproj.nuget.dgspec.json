@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Daten\\Coding\\CVR\\HexBot\\HexBot\\HexBot\\HexBot.csproj": {}
+    "C:\\Users\\Umbra\\Documents\\GitHub\\CVR-HexBOT\\HexBot\\HexBot.csproj": {}
   },
   "projects": {
-    "D:\\Daten\\Coding\\CVR\\HexBot\\HexBot\\HexBot\\HexBot.csproj": {
+    "C:\\Users\\Umbra\\Documents\\GitHub\\CVR-HexBOT\\HexBot\\HexBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Daten\\Coding\\CVR\\HexBot\\HexBot\\HexBot\\HexBot.csproj",
+        "projectUniqueName": "C:\\Users\\Umbra\\Documents\\GitHub\\CVR-HexBOT\\HexBot\\HexBot.csproj",
         "projectName": "HexBot",
-        "projectPath": "D:\\Daten\\Coding\\CVR\\HexBot\\HexBot\\HexBot\\HexBot.csproj",
+        "projectPath": "C:\\Users\\Umbra\\Documents\\GitHub\\CVR-HexBOT\\HexBot\\HexBot.csproj",
         "packagesPath": "C:\\Users\\Umbra\\.nuget\\packages\\",
-        "outputPath": "D:\\Daten\\Coding\\CVR\\HexBot\\HexBot\\HexBot\\obj\\publish\\win-x64\\",
+        "outputPath": "C:\\Users\\Umbra\\Documents\\GitHub\\CVR-HexBOT\\HexBot\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,16 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +42,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
@@ -64,12 +65,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

@@ -12,7 +12,6 @@ namespace HexBot
     {
         public static List<RiftClient> RiftClients = new List<RiftClient>();
         public static int BotAmount = int.MaxValue;
-        private static readonly List<string> Accounts = new List<string>();
 
         static void Main(string[] args)
         {
@@ -31,12 +30,12 @@ namespace HexBot
         {
             for (; ; )
             {
-                Logger.LogWarning("J [WORLDID] | Join into a World");
-                Logger.LogWarning("L | Leave the World");
-                Logger.LogWarning("A [AVATARID] | Change the Avatar");
-                Logger.LogWarning("C [UserID] | Copy the Users Movement");
-                Logger.LogWarning("S | Search Users in a Loop");
-                Logger.LogWarning("X | Avatar Lagger Exploit");
+                Logger.LogWarning("J [WORLDID] - Join into a World");
+                Logger.LogWarning("L - Leave the World");
+                Logger.LogWarning("A [AVATARID] - Change the Avatar");
+                Logger.LogWarning("C [UserID] - Copy the Users Movement");
+                Logger.LogWarning("S - Search Users in a Loop");
+                Logger.LogWarning("X - Avatar Lagger Exploit");
 
                 string Input = Console.ReadLine();
                 string InputStart = Input.Split(' ')[0];
